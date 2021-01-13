@@ -5,4 +5,5 @@ This repository has been made for educating purpose.
 
 The reposity was created by a data-saavy student which is in the first steps of her way. 
 
-# Joey does not share food
+
+Hi Alireza, thanks for your contribution.
